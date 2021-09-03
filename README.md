@@ -7,7 +7,7 @@
 
 ---
 
-# Task 0: Setting up the Vue project
+# Task 0: Set up
 
 1. Install
    ```
@@ -34,7 +34,7 @@
    </center>
 
 2. The component must be responsive and display well on both PC and mobile view.
-3. Stretch goal: We've provided an asset for the coupon in `/assets/coupon.png`, but if you're feeling ambitious you can try converting this to an SVG or pure CSS.
+3. Stretch goal: We've provided an asset for the coupon in `./src/assets/coupon.png`, but if you're feeling ambitious you can try converting this to an SVG or pure CSS.
 
 ---
 
@@ -50,6 +50,6 @@
    <i>Task 2 Mock up: Mobile view</i>
    </center>
 
-2. The GIF and ribbon assets are available in `/assets/premium_mobile_coin.gif` and `/assets/premium_ribbon.png`
+2. The GIF and ribbon assets are available in `./src/assets/premium_mobile_coin.gif` and `./src/assets/premium_ribbon.png`
 3. The component must be responsive and display well on both PC and mobile view.
-4. We've provided an asset for the ribbon in `/assets/premium_ribbon.png`, but if you're feeling ambitious you can try converting this to SVG or pure CSS.
+4. We've provided an asset for the ribbon in `./src/assets/premium_ribbon.png`, but if you're feeling ambitious you can try converting this to SVG or pure CSS.
