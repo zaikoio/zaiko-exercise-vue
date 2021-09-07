@@ -58,10 +58,10 @@
 
 # Task 3: API Interaction
 1. `./src/MenuComponent.vue` contains a loading spinner and a table.
-2. Add an API call that fills the table with data from `public/data/lawson.json`.
+2. Add an API call that fills the table with data from `public/data/menu.json`.
 3. Before the data is loaded, the loading spinner should be shown and the table should be hidden. After the data is loaded, the loading spinner should be hidden and the table should be shown.
 4. Items in the menu can be hot or cold, designated by their category. Hot menu items should be red and cold menu items should be blue. 
-5. **Hint:** While the server is running, the JSON file should be accessible by default at `http://localhost:8080/data/lawson.json`
+5. **Hint:** While the server is running, the JSON file should be accessible by default at `http://localhost:8080/data/menu.json`
 6. **Hint:** We've already installed axios but you're free to use whatever library or implementation you're comfortable with.
 <center><img src="https://d38fgd7fmrcuct.cloudfront.net/1_3xd57oayx7a7dhic3414w.jpg" />
 
